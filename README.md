@@ -91,8 +91,4 @@
   <img src="https://streak-stats.demolab.com/?user=Anh-Dung-Nguyen&theme=dark&hide_border=false" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Anh-Dung-Nguyen&icon=0&color=0" alt="Profile views" />
-</p>
-
 ---
