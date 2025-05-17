@@ -12,7 +12,7 @@
 - Web Scraping & Automation (BeautifulSoup, Selenium)
 - Cybersecurity 🔐
 
-🔍 I'm curious, creative, and always learning through side projects and open-source contributions.
+🔍 I'm curious, creative, and always learn through side projects and open-source contributions.
 
 ---
 
