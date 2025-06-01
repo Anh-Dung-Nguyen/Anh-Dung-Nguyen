@@ -8,7 +8,7 @@
 💻 I'm currently studying Computer Science at INSA Rennes, where I explore topics like:
 - Algorithms & Software Development
 - Artificial Intelligence & Data Analysis
-- Backend development (.NET, Spring Boot, Web APIs)
+- Fullstack development (.NET, Spring Boot, Web APIs)
 - Web Scraping & Automation (BeautifulSoup, Selenium)
 - Cybersecurity 🔐
 
